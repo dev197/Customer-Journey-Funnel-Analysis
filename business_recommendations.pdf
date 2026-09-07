@@ -1,0 +1,48 @@
+Business Recommendtions
+
+Fix technical issues first
+Cause: Technical issues are the largest recorded exit reason.
+Evidence: 1,014 non-submitted sessions and approximately 54.2M of at-risk opportunity.
+Impact: Reducing errors can improve form submissions, user trust, and recovered opportunity.
+Priority: Very high.
+
+Improve the product-page-to-calculator journey
+Cause: Many users view the product page but do not continue to the calculator.
+Evidence: Only 50.7% of product-page viewers use the calculator.
+Impact: Better product messaging and stronger calls to action can increase high-intent users entering the funnel.
+Priority: Very high.
+
+Optimize the mobile experience
+Cause: Mobile users may face layout, speed, form, keyboard, or validation friction.
+Evidence: Mobile represents 56.1% of sessions but converts at 13.5%, compared with 19.4% on Desktop.
+Impact: Even a small improvement in mobile conversion could create more leads because mobile has the highest traffic volume.
+Priority: High.
+
+Make product value and interest rates clearer
+Cause: Users may not understand the product benefit or may be concerned about interest rates.
+Evidence: “Unclear product value” accounts for 553 exits and “High interest-rate concern” accounts for 547 exits.
+Impact: Clearer benefits, rate ranges, eligibility information, and calculator explanations can reduce hesitation.
+Priority: High.
+
+Focus marketing on quality, not only traffic volume
+Cause: Acquisition sources produce different levels of customer intent.
+Evidence: Referral converts at 22.7%, Email at 20.5%, Paid Ads at 10.7%, and Social Media at 7.5%.
+Impact: Improving the mix toward high-quality sources can increase leads without requiring the same increase in traffic.
+Priority: High.
+
+Create a dedicated Personal Loan improvement plan
+Cause: Personal Loan is the largest product segment and holds the largest opportunity pool.
+Evidence: 1,739 sessions, 17.2% conversion, and approximately 163.7M of at-risk opportunity.
+Impact: Improvements to this product journey could create the largest absolute business benefit.
+Priority: Medium-high.
+
+Investigate lower-income conversion gaps
+Cause: Lower-income users may face affordability, eligibility, trust, or rate concerns.
+Evidence: The 100K+ segment converts at 19.9%, while the Below 25K segment converts at 10.8%.
+Impact: Better affordability messaging and product-fit communication may improve conversion among lower-income users.
+Priority: Medium.
+
+Validate the opportunity-value definition
+Cause: Opportunity value is populated for non-submitted sessions and zero for submitted sessions.
+Impact: It should not be reported as revenue or profit until the business definition is confirmed.
+Priority: Immediate governance requirement.
